@@ -5,9 +5,9 @@ Used for training machine learning models. It is compiled from a number of other
 
 
 
-## Fashionista Dataset
+## Fashionista Dataset (158,235 images)
 
-Thanks to [Kota Yamaguchi](http://vision.is.tohoku.ac.jp/~kyamagu/) for the fashionista dataset.
+Thanks to [Kota Yamaguchi](http://vision.is.tohoku.ac.jp/~kyamagu/) for the fashionista dataset. [Paper](http://www.cs.unc.edu/~hadi/cvpr_2012.pdf)
 
 The fashionista package contains the Fashionista dataset without annotation,
 which was collected from chictopia.com in 2011.
