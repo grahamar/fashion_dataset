@@ -1,16 +1,10 @@
-Fashion Dataset
-=======
+Fashioninsta Unannotated Dataset
+================================
 
-Used for training machine learning models. It is compiled from a number of other data
+Kota Yamaguchi, June 2012
 
-
-
-## Fashionista Dataset
-
-Thanks to [Kota Yamaguchi](http://vision.is.tohoku.ac.jp/~kyamagu/) for the fashionista dataset.
-
-The fashionista package contains the Fashionista dataset without annotation,
-which was collected from chictopia.com in 2011.
+The package contains the Fashionista dataset without annotation,
+which we collected from chictopia.com in 2011.
 
 The data is stored in a tab-delimited text files in the following
 format. Text files are split into chunks. Concatenating them
@@ -26,7 +20,8 @@ Post represents a blog post in chictopia.com. In Chictopia, bloggers
 upload up to 5 photos to a single post. This table keeps the url of
 these posts and a unique identifier in the dataset.
 
-Note that a blogger might delete some of the posts since the dataset was collected. It's not guaranteed that all posts are available.
+Note that a blogger might delete some of the posts since we collected
+the dataset. We do not guarantee that all posts are available.
 
 photos/xxx.txt
 --------------
