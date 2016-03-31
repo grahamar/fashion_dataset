@@ -1,7 +1,7 @@
 Fashion Dataset
 =======
 
-Used for training machine learning models. It is compiled from a number of other data
+Used for training machine learning models. It is compiled from a number of other datasets.
 
 
 
